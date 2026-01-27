@@ -5,7 +5,7 @@
 ### 介绍
 [GameFramework](https://github.com/EllanJiang/GameFramework) + [HybridCLR](https://github.com/focus-creative-games/hybridclr)，通过静态扩展方式，极度简化或扩展框架接口，并编写了大量自动化工具，主打一个工业化生产工作流，追求极致性能和开发效率，使GF对新手友好，开箱即用。
 作为极其懒惰、从不加班的设计开发工程师，我的宗旨是拒绝一切高重复度工作内耗，框架层零投入，用户只需专注业务逻辑。
-推荐使用Unity2022 ~ Unity6000最新版。
+推荐使用Unity2022 ~ Unity6000(LTS版本)。
 
 ### [GF_X DeepWiki](https://deepwiki.com/sunsvip/GF_X)
 
